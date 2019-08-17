@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Catalogue (API)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Movie</string>
+    <string name="tvShow">Tv Show</string>
+    <string name="settings">Settings</string>
+    <string name="ratingBar">Ratings</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="watch">Watch</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="genres">Genres</string>
+    <string name="release_date">Release Date</string>
+    <string name="runtime">Duration (minutes)</string>
+    <string name="production_companies">Production Companies</string>
+    <string name="production_countries">Production Countries</string>
+    <string name="_9_0">9.0</string>
+    <string name="share">Share</string>
+    <string name="movie_catalogue_api">Movie Catalogue (API)</string>
+</resources>

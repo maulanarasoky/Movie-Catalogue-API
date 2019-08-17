@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Catalogue (API)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Film</string>
+    <string name="tvShow">Acara Tv</string>
+    <string name="settings">Pengaturan</string>
+    <string name="ratingBar">Peringkat</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="watch">Tonton</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="genres">Genre</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="runtime">Durasi (menit)</string>
+    <string name="production_companies">Diproduksi Perusahaan</string>
+    <string name="production_countries">Diproduksi Kota</string>
+    <string name="_9_0">9.0</string>
+    <string name="movie_catalogue_api">Movie Catalogue (API)</string>
+</resources>
